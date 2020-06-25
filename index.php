@@ -10,10 +10,10 @@
         h1 { font-size: 20px; margin: 10px; }
         h2 { font-size: 18px; }
         
-        .tela { width: 95%; margin: 40px auto; }
-        .profissao { width: 100%; float: left;  }
+        .tela { width: 90%; margin: 40px auto; border-radius: 10px; }
+        .profissao { width: 100%; float: left; }
 
-        .cards { width: 100%; padding: 20px 10px;}
+        .cards { width: 95%; padding: 20px; border-radius: 10px; margin: 10px auto; }
         .pros { background-color: #bad8ba; }
         .contras { background-color: #e7c8c8; }
     </style>
