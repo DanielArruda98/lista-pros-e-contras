@@ -13,7 +13,7 @@
         .tela { width: 90%; margin: 40px auto; border-radius: 10px; }
         .profissao { width: 100%; float: left; }
 
-        .cards { width: 95%; padding: 20px; border-radius: 10px; margin: 10px auto; }
+        .cards { width: 90%; padding: 20px; border-radius: 10px; margin: 10px auto; }
         .pros { background-color: #bad8ba; }
         .contras { background-color: #e7c8c8; }
     </style>
