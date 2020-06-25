@@ -10,7 +10,7 @@
         h1 { font-size: 20px; margin: 10px; }
         h2 { font-size: 18px; }
         
-        .tela { width: 60%; margin: 40px auto; }
+        .tela { width: 95%; margin: 40px auto; }
         .profissao { width: 100%; float: left;  }
 
         .cards { width: 100%; padding: 20px 10px;}
