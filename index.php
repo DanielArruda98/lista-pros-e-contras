@@ -48,7 +48,7 @@
                 <ul>
                     <li>Feriados</li>
                     <li>Horários</li>
-                    <li>Poder fazer os arromabdinhos amar história</li>
+                    <li>Poder fazer os arrombadinhos amar história</li>
                     <li>Fujiria de exatas</li>
                 </ul>
             </div>
